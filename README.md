@@ -38,4 +38,4 @@ This beginner-friendly machine learning project predicts whether a customer will
 3. Run the Python file:
 
 ```bash
-[python bank_decision_tree_classifier.py](https://colab.research.google.com/drive/1C663Wy2Y-ENCos0WW0jwG1f9EXVn5FKc?usp=sharing)
+https://colab.research.google.com/drive/1C663Wy2Y-ENCos0WW0jwG1f9EXVn5FKc?usp=sharing
